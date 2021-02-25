@@ -1,0 +1,1179 @@
+2019-12-16 08:31:22 AM [main] INFO  c.v.c.VtcConnectionSplayApplication - logStarting
+2019-12-16 08:31:22 AM [main] INFO  c.v.c.VtcConnectionSplayApplication - logStartupProfileInfo
+2019-12-16 08:31:23 AM [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - registerRepositoriesIn
+2019-12-16 08:31:24 AM [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - registerRepositoriesIn
+2019-12-16 08:31:24 AM [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - registerRepositoriesIn
+2019-12-16 08:31:24 AM [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - registerRepositoriesIn
+2019-12-16 08:31:24 AM [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - postProcessAfterInitialization
+2019-12-16 08:31:24 AM [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - postProcessAfterInitialization
+2019-12-16 08:31:24 AM [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - postProcessAfterInitialization
+2019-12-16 08:31:24 AM [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - postProcessAfterInitialization
+2019-12-16 08:31:24 AM [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - postProcessAfterInitialization
+2019-12-16 08:31:24 AM [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - postProcessAfterInitialization
+2019-12-16 08:31:25 AM [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - initialize
+2019-12-16 08:31:25 AM [main] INFO  o.a.coyote.http11.Http11NioProtocol - log
+2019-12-16 08:31:25 AM [main] INFO  o.a.catalina.core.StandardService - log
+2019-12-16 08:31:25 AM [main] INFO  o.a.catalina.core.StandardEngine - log
+2019-12-16 08:31:25 AM [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - log
+2019-12-16 08:31:25 AM [main] INFO  o.s.web.context.ContextLoader - prepareWebApplicationContext
+2019-12-16 08:31:25 AM [main] INFO  com.zaxxer.hikari.HikariDataSource - getConnection
+2019-12-16 08:31:26 AM [main] INFO  com.zaxxer.hikari.HikariDataSource - getConnection
+2019-12-16 08:31:26 AM [main] INFO  o.h.jpa.internal.util.LogHelper - logPersistenceUnitInformation
+2019-12-16 08:31:26 AM [main] INFO  org.hibernate.Version - logVersion
+2019-12-16 08:31:26 AM [main] INFO  org.hibernate.cfg.Environment - <clinit>
+2019-12-16 08:31:26 AM [main] INFO  o.h.annotations.common.Version - <clinit>
+2019-12-16 08:31:26 AM [main] INFO  org.hibernate.dialect.Dialect - <init>
+2019-12-16 08:31:28 AM [main] INFO  o.h.h.i.QueryTranslatorFactoryInitiator - initiateService
+2019-12-16 08:31:28 AM [main] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - buildNativeEntityManagerFactory
+2019-12-16 08:31:28 AM [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration$JpaWebMvcConfiguration - openEntityManagerInViewInterceptor
+2019-12-16 08:31:29 AM [main] INFO  o.s.s.web.DefaultSecurityFilterChain - <init>
+2019-12-16 08:31:30 AM [main] INFO  o.s.b.a.s.s.UserDetailsServiceAutoConfiguration - getOrDeducePassword
+2019-12-16 08:31:30 AM [main] INFO  o.a.coyote.http11.Http11NioProtocol - log
+2019-12-16 08:31:30 AM [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - start
+2019-12-16 08:31:30 AM [main] INFO  c.v.c.VtcConnectionSplayApplication - logStarted
+2019-12-16 08:34:13 AM [Thread-4] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - destroy
+2019-12-16 08:34:13 AM [Thread-4] INFO  com.zaxxer.hikari.HikariDataSource - close
+2019-12-16 08:34:13 AM [Thread-4] INFO  com.zaxxer.hikari.HikariDataSource - close
+2019-12-16 08:34:21 AM [main] INFO  c.v.c.VtcConnectionSplayApplication - logStarting
+2019-12-16 08:34:21 AM [main] INFO  c.v.c.VtcConnectionSplayApplication - logStartupProfileInfo
+2019-12-16 08:34:22 AM [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - registerRepositoriesIn
+2019-12-16 08:34:22 AM [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - registerRepositoriesIn
+2019-12-16 08:34:22 AM [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - registerRepositoriesIn
+2019-12-16 08:34:22 AM [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - registerRepositoriesIn
+2019-12-16 08:34:23 AM [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - postProcessAfterInitialization
+2019-12-16 08:34:23 AM [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - postProcessAfterInitialization
+2019-12-16 08:34:23 AM [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - postProcessAfterInitialization
+2019-12-16 08:34:23 AM [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - postProcessAfterInitialization
+2019-12-16 08:34:23 AM [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - postProcessAfterInitialization
+2019-12-16 08:34:23 AM [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - postProcessAfterInitialization
+2019-12-16 08:34:23 AM [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - initialize
+2019-12-16 08:34:23 AM [main] INFO  o.a.coyote.http11.Http11NioProtocol - log
+2019-12-16 08:34:23 AM [main] INFO  o.a.catalina.core.StandardService - log
+2019-12-16 08:34:23 AM [main] INFO  o.a.catalina.core.StandardEngine - log
+2019-12-16 08:34:23 AM [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - log
+2019-12-16 08:34:23 AM [main] INFO  o.s.web.context.ContextLoader - prepareWebApplicationContext
+2019-12-16 08:34:24 AM [main] INFO  com.zaxxer.hikari.HikariDataSource - getConnection
+2019-12-16 08:34:24 AM [main] INFO  com.zaxxer.hikari.HikariDataSource - getConnection
+2019-12-16 08:34:24 AM [main] INFO  o.h.jpa.internal.util.LogHelper - logPersistenceUnitInformation
+2019-12-16 08:34:24 AM [main] INFO  org.hibernate.Version - logVersion
+2019-12-16 08:34:24 AM [main] INFO  org.hibernate.cfg.Environment - <clinit>
+2019-12-16 08:34:24 AM [main] INFO  o.h.annotations.common.Version - <clinit>
+2019-12-16 08:34:24 AM [main] INFO  org.hibernate.dialect.Dialect - <init>
+2019-12-16 08:34:26 AM [main] INFO  o.h.h.i.QueryTranslatorFactoryInitiator - initiateService
+2019-12-16 08:34:26 AM [main] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - buildNativeEntityManagerFactory
+2019-12-16 08:34:27 AM [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration$JpaWebMvcConfiguration - openEntityManagerInViewInterceptor
+2019-12-16 08:34:28 AM [main] INFO  o.s.s.web.DefaultSecurityFilterChain - <init>
+2019-12-16 08:34:28 AM [main] INFO  o.s.b.a.s.s.UserDetailsServiceAutoConfiguration - getOrDeducePassword
+2019-12-16 08:34:28 AM [main] INFO  o.a.coyote.http11.Http11NioProtocol - log
+2019-12-16 08:34:28 AM [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - start
+2019-12-16 08:34:28 AM [main] INFO  c.v.c.VtcConnectionSplayApplication - logStarted
+2019-12-16 08:34:33 AM [http-nio-9092-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - log
+2019-12-16 08:34:33 AM [http-nio-9092-exec-1] INFO  o.s.web.servlet.DispatcherServlet - initServletBean
+2019-12-16 08:34:33 AM [http-nio-9092-exec-1] INFO  o.s.web.servlet.DispatcherServlet - initServletBean
+2019-12-16 08:34:34 AM [http-nio-9092-exec-1] INFO  c.v.c.c.CardScoinController - checkLimitTopupCardScoinCross
+2019-12-16 08:34:34 AM [http-nio-9092-exec-1] INFO  c.v.c.s.impl.CardScoinServiceImpl - checkLimitTopupCardScoinCross
+2019-12-16 08:34:34 AM [http-nio-9092-exec-1] INFO  c.v.c.s.impl.CardScoinServiceImpl - checkLimitTopupCardScoinCross
+2019-12-16 08:34:34 AM [http-nio-9092-exec-1] INFO  c.v.c.c.CardScoinController - toConnectionScoinResult
+2019-12-16 08:36:55 AM [Thread-4] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - destroy
+2019-12-16 08:36:55 AM [Thread-4] INFO  com.zaxxer.hikari.HikariDataSource - close
+2019-12-16 08:36:55 AM [Thread-4] INFO  com.zaxxer.hikari.HikariDataSource - close
+2019-12-16 08:37:29 AM [main] INFO  c.v.c.VtcConnectionSplayApplication - logStarting
+2019-12-16 08:37:29 AM [main] INFO  c.v.c.VtcConnectionSplayApplication - logStartupProfileInfo
+2019-12-16 08:37:30 AM [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - registerRepositoriesIn
+2019-12-16 08:37:30 AM [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - registerRepositoriesIn
+2019-12-16 08:37:30 AM [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - registerRepositoriesIn
+2019-12-16 08:37:30 AM [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - registerRepositoriesIn
+2019-12-16 08:37:30 AM [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - postProcessAfterInitialization
+2019-12-16 08:37:31 AM [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - postProcessAfterInitialization
+2019-12-16 08:37:31 AM [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - postProcessAfterInitialization
+2019-12-16 08:37:31 AM [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - postProcessAfterInitialization
+2019-12-16 08:37:31 AM [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - postProcessAfterInitialization
+2019-12-16 08:37:31 AM [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - postProcessAfterInitialization
+2019-12-16 08:37:31 AM [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - initialize
+2019-12-16 08:37:31 AM [main] INFO  o.a.coyote.http11.Http11NioProtocol - log
+2019-12-16 08:37:31 AM [main] INFO  o.a.catalina.core.StandardService - log
+2019-12-16 08:37:31 AM [main] INFO  o.a.catalina.core.StandardEngine - log
+2019-12-16 08:37:31 AM [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - log
+2019-12-16 08:37:31 AM [main] INFO  o.s.web.context.ContextLoader - prepareWebApplicationContext
+2019-12-16 08:37:31 AM [main] INFO  com.zaxxer.hikari.HikariDataSource - getConnection
+2019-12-16 08:37:32 AM [main] INFO  com.zaxxer.hikari.HikariDataSource - getConnection
+2019-12-16 08:37:32 AM [main] INFO  o.h.jpa.internal.util.LogHelper - logPersistenceUnitInformation
+2019-12-16 08:37:32 AM [main] INFO  org.hibernate.Version - logVersion
+2019-12-16 08:37:32 AM [main] INFO  org.hibernate.cfg.Environment - <clinit>
+2019-12-16 08:37:32 AM [main] INFO  o.h.annotations.common.Version - <clinit>
+2019-12-16 08:37:32 AM [main] INFO  org.hibernate.dialect.Dialect - <init>
+2019-12-16 08:37:34 AM [main] INFO  o.h.h.i.QueryTranslatorFactoryInitiator - initiateService
+2019-12-16 08:37:34 AM [main] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - buildNativeEntityManagerFactory
+2019-12-16 08:37:35 AM [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration$JpaWebMvcConfiguration - openEntityManagerInViewInterceptor
+2019-12-16 08:37:36 AM [main] INFO  o.s.s.web.DefaultSecurityFilterChain - <init>
+2019-12-16 08:37:36 AM [main] INFO  o.s.b.a.s.s.UserDetailsServiceAutoConfiguration - getOrDeducePassword
+2019-12-16 08:37:36 AM [main] INFO  o.a.coyote.http11.Http11NioProtocol - log
+2019-12-16 08:37:36 AM [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - start
+2019-12-16 08:37:36 AM [main] INFO  c.v.c.VtcConnectionSplayApplication - logStarted
+2019-12-16 08:37:59 AM [http-nio-9092-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - log
+2019-12-16 08:37:59 AM [http-nio-9092-exec-1] INFO  o.s.web.servlet.DispatcherServlet - initServletBean
+2019-12-16 08:37:59 AM [http-nio-9092-exec-1] INFO  o.s.web.servlet.DispatcherServlet - initServletBean
+2019-12-16 08:37:59 AM [http-nio-9092-exec-1] INFO  c.v.c.c.CardScoinController - saveTopupCardHistory
+2019-12-16 08:37:59 AM [http-nio-9092-exec-1] INFO  c.v.c.e.ScoinExceptionHandler - handleInvalidInputExceptionConnectionScoin
+com.vtc.common.exception.ConnectionScoinInvalidDataRequestException: Invalid data request
+	at com.vtc.connection.service.impl.CardScoinServiceImpl.saveTopupCardFromScoinHistory(CardScoinServiceImpl.java:72)
+	at com.vtc.connection.controllers.CardScoinController.saveTopupCardHistory(CardScoinController.java:32)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:189)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:102)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:892)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:797)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1038)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:942)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1005)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:908)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:660)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:882)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:320)
+	at org.springframework.security.web.access.intercept.FilterSecurityInterceptor.invoke(FilterSecurityInterceptor.java:127)
+	at org.springframework.security.web.access.intercept.FilterSecurityInterceptor.doFilter(FilterSecurityInterceptor.java:91)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.access.ExceptionTranslationFilter.doFilter(ExceptionTranslationFilter.java:119)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.session.SessionManagementFilter.doFilter(SessionManagementFilter.java:137)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.authentication.AnonymousAuthenticationFilter.doFilter(AnonymousAuthenticationFilter.java:111)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter.doFilter(SecurityContextHolderAwareRequestFilter.java:170)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.savedrequest.RequestCacheAwareFilter.doFilter(RequestCacheAwareFilter.java:63)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.authentication.www.BasicAuthenticationFilter.doFilterInternal(BasicAuthenticationFilter.java:158)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.authentication.preauth.AbstractPreAuthenticatedProcessingFilter.doFilter(AbstractPreAuthenticatedProcessingFilter.java:121)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:116)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.web.filter.CorsFilter.doFilterInternal(CorsFilter.java:96)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.header.HeaderWriterFilter.doFilterInternal(HeaderWriterFilter.java:74)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.context.SecurityContextPersistenceFilter.doFilter(SecurityContextPersistenceFilter.java:105)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter.doFilterInternal(WebAsyncManagerIntegrationFilter.java:56)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.FilterChainProxy.doFilterInternal(FilterChainProxy.java:215)
+	at org.springframework.security.web.FilterChainProxy.doFilter(FilterChainProxy.java:178)
+	at org.springframework.web.filter.DelegatingFilterProxy.invokeDelegate(DelegatingFilterProxy.java:357)
+	at org.springframework.web.filter.DelegatingFilterProxy.doFilter(DelegatingFilterProxy.java:270)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:200)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:200)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:490)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:408)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:834)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1415)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2019-12-16 08:38:17 AM [http-nio-9092-exec-3] INFO  c.v.c.c.CardScoinController - checkLimitTopupCardScoinCross
+2019-12-16 08:38:17 AM [http-nio-9092-exec-3] INFO  c.v.c.s.impl.CardScoinServiceImpl - checkLimitTopupCardScoinCross
+2019-12-16 08:38:17 AM [http-nio-9092-exec-3] INFO  c.v.c.s.impl.CardScoinServiceImpl - checkLimitTopupCardScoinCross
+2019-12-16 08:38:17 AM [http-nio-9092-exec-3] INFO  c.v.c.c.CardScoinController - toConnectionScoinResult
+2019-12-16 08:40:38 AM [Thread-4] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - destroy
+2019-12-16 08:40:38 AM [Thread-4] INFO  com.zaxxer.hikari.HikariDataSource - close
+2019-12-16 08:40:38 AM [Thread-4] INFO  com.zaxxer.hikari.HikariDataSource - close
+2019-12-16 08:40:45 AM [main] INFO  c.v.c.VtcConnectionSplayApplication - logStarting
+2019-12-16 08:40:45 AM [main] INFO  c.v.c.VtcConnectionSplayApplication - logStartupProfileInfo
+2019-12-16 08:40:47 AM [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - registerRepositoriesIn
+2019-12-16 08:40:47 AM [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - registerRepositoriesIn
+2019-12-16 08:40:47 AM [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - registerRepositoriesIn
+2019-12-16 08:40:47 AM [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - registerRepositoriesIn
+2019-12-16 08:40:48 AM [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - postProcessAfterInitialization
+2019-12-16 08:40:48 AM [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - postProcessAfterInitialization
+2019-12-16 08:40:48 AM [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - postProcessAfterInitialization
+2019-12-16 08:40:48 AM [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - postProcessAfterInitialization
+2019-12-16 08:40:48 AM [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - postProcessAfterInitialization
+2019-12-16 08:40:48 AM [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - postProcessAfterInitialization
+2019-12-16 08:40:48 AM [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - initialize
+2019-12-16 08:40:48 AM [main] INFO  o.a.coyote.http11.Http11NioProtocol - log
+2019-12-16 08:40:49 AM [main] INFO  o.a.catalina.core.StandardService - log
+2019-12-16 08:40:49 AM [main] INFO  o.a.catalina.core.StandardEngine - log
+2019-12-16 08:40:49 AM [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - log
+2019-12-16 08:40:49 AM [main] INFO  o.s.web.context.ContextLoader - prepareWebApplicationContext
+2019-12-16 08:40:49 AM [main] INFO  com.zaxxer.hikari.HikariDataSource - getConnection
+2019-12-16 08:40:49 AM [main] INFO  com.zaxxer.hikari.HikariDataSource - getConnection
+2019-12-16 08:40:49 AM [main] INFO  o.h.jpa.internal.util.LogHelper - logPersistenceUnitInformation
+2019-12-16 08:40:49 AM [main] INFO  org.hibernate.Version - logVersion
+2019-12-16 08:40:49 AM [main] INFO  org.hibernate.cfg.Environment - <clinit>
+2019-12-16 08:40:50 AM [main] INFO  o.h.annotations.common.Version - <clinit>
+2019-12-16 08:40:50 AM [main] INFO  org.hibernate.dialect.Dialect - <init>
+2019-12-16 08:40:52 AM [main] INFO  o.h.h.i.QueryTranslatorFactoryInitiator - initiateService
+2019-12-16 08:40:52 AM [main] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - buildNativeEntityManagerFactory
+2019-12-16 08:40:53 AM [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration$JpaWebMvcConfiguration - openEntityManagerInViewInterceptor
+2019-12-16 08:40:54 AM [main] INFO  o.s.s.web.DefaultSecurityFilterChain - <init>
+2019-12-16 08:40:54 AM [main] INFO  o.s.b.a.s.s.UserDetailsServiceAutoConfiguration - getOrDeducePassword
+2019-12-16 08:40:54 AM [main] INFO  o.a.coyote.http11.Http11NioProtocol - log
+2019-12-16 08:40:54 AM [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - start
+2019-12-16 08:40:54 AM [main] INFO  c.v.c.VtcConnectionSplayApplication - logStarted
+2019-12-16 08:41:00 AM [http-nio-9092-exec-2] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - log
+2019-12-16 08:41:00 AM [http-nio-9092-exec-2] INFO  o.s.web.servlet.DispatcherServlet - initServletBean
+2019-12-16 08:41:00 AM [http-nio-9092-exec-2] INFO  o.s.web.servlet.DispatcherServlet - initServletBean
+2019-12-16 08:41:01 AM [http-nio-9092-exec-2] INFO  c.v.c.c.CardScoinController - saveTopupCardHistory
+2019-12-16 08:41:01 AM [http-nio-9092-exec-2] INFO  c.v.c.e.ScoinExceptionHandler - handleDuplicateEntityExceptionConectionScoin
+com.vtc.common.exception.ConnectionScoinDuplicateEntityException: Duplicate Payment!!
+	at com.vtc.connection.service.impl.CardScoinServiceImpl.saveTopupCardFromScoinHistory(CardScoinServiceImpl.java:85)
+	at com.vtc.connection.controllers.CardScoinController.saveTopupCardHistory(CardScoinController.java:32)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:189)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:102)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:892)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:797)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1038)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:942)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1005)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:908)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:660)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:882)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:320)
+	at org.springframework.security.web.access.intercept.FilterSecurityInterceptor.invoke(FilterSecurityInterceptor.java:127)
+	at org.springframework.security.web.access.intercept.FilterSecurityInterceptor.doFilter(FilterSecurityInterceptor.java:91)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.access.ExceptionTranslationFilter.doFilter(ExceptionTranslationFilter.java:119)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.session.SessionManagementFilter.doFilter(SessionManagementFilter.java:137)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.authentication.AnonymousAuthenticationFilter.doFilter(AnonymousAuthenticationFilter.java:111)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter.doFilter(SecurityContextHolderAwareRequestFilter.java:170)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.savedrequest.RequestCacheAwareFilter.doFilter(RequestCacheAwareFilter.java:63)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.authentication.www.BasicAuthenticationFilter.doFilterInternal(BasicAuthenticationFilter.java:158)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.authentication.preauth.AbstractPreAuthenticatedProcessingFilter.doFilter(AbstractPreAuthenticatedProcessingFilter.java:121)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:116)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.web.filter.CorsFilter.doFilterInternal(CorsFilter.java:96)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.header.HeaderWriterFilter.doFilterInternal(HeaderWriterFilter.java:74)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.context.SecurityContextPersistenceFilter.doFilter(SecurityContextPersistenceFilter.java:105)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter.doFilterInternal(WebAsyncManagerIntegrationFilter.java:56)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.FilterChainProxy.doFilterInternal(FilterChainProxy.java:215)
+	at org.springframework.security.web.FilterChainProxy.doFilter(FilterChainProxy.java:178)
+	at org.springframework.web.filter.DelegatingFilterProxy.invokeDelegate(DelegatingFilterProxy.java:357)
+	at org.springframework.web.filter.DelegatingFilterProxy.doFilter(DelegatingFilterProxy.java:270)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:200)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:200)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:490)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:408)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:834)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1415)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2019-12-16 08:41:30 AM [Thread-4] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - destroy
+2019-12-16 08:41:30 AM [Thread-4] INFO  com.zaxxer.hikari.HikariDataSource - close
+2019-12-16 08:41:30 AM [Thread-4] INFO  com.zaxxer.hikari.HikariDataSource - close
+2019-12-16 08:41:38 AM [main] INFO  c.v.c.VtcConnectionSplayApplication - logStarting
+2019-12-16 08:41:38 AM [main] INFO  c.v.c.VtcConnectionSplayApplication - logStartupProfileInfo
+2019-12-16 08:41:39 AM [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - registerRepositoriesIn
+2019-12-16 08:41:39 AM [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - registerRepositoriesIn
+2019-12-16 08:41:39 AM [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - registerRepositoriesIn
+2019-12-16 08:41:39 AM [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - registerRepositoriesIn
+2019-12-16 08:41:40 AM [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - postProcessAfterInitialization
+2019-12-16 08:41:40 AM [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - postProcessAfterInitialization
+2019-12-16 08:41:40 AM [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - postProcessAfterInitialization
+2019-12-16 08:41:40 AM [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - postProcessAfterInitialization
+2019-12-16 08:41:40 AM [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - postProcessAfterInitialization
+2019-12-16 08:41:40 AM [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - postProcessAfterInitialization
+2019-12-16 08:41:40 AM [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - initialize
+2019-12-16 08:41:40 AM [main] INFO  o.a.coyote.http11.Http11NioProtocol - log
+2019-12-16 08:41:41 AM [main] INFO  o.a.catalina.core.StandardService - log
+2019-12-16 08:41:41 AM [main] INFO  o.a.catalina.core.StandardEngine - log
+2019-12-16 08:41:41 AM [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - log
+2019-12-16 08:41:41 AM [main] INFO  o.s.web.context.ContextLoader - prepareWebApplicationContext
+2019-12-16 08:41:41 AM [main] INFO  com.zaxxer.hikari.HikariDataSource - getConnection
+2019-12-16 08:41:41 AM [main] INFO  com.zaxxer.hikari.HikariDataSource - getConnection
+2019-12-16 08:41:41 AM [main] INFO  o.h.jpa.internal.util.LogHelper - logPersistenceUnitInformation
+2019-12-16 08:41:41 AM [main] INFO  org.hibernate.Version - logVersion
+2019-12-16 08:41:41 AM [main] INFO  org.hibernate.cfg.Environment - <clinit>
+2019-12-16 08:41:42 AM [main] INFO  o.h.annotations.common.Version - <clinit>
+2019-12-16 08:41:42 AM [main] INFO  org.hibernate.dialect.Dialect - <init>
+2019-12-16 08:41:43 AM [main] INFO  o.h.h.i.QueryTranslatorFactoryInitiator - initiateService
+2019-12-16 08:41:44 AM [main] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - buildNativeEntityManagerFactory
+2019-12-16 08:41:45 AM [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration$JpaWebMvcConfiguration - openEntityManagerInViewInterceptor
+2019-12-16 08:41:45 AM [main] INFO  o.s.s.web.DefaultSecurityFilterChain - <init>
+2019-12-16 08:41:46 AM [main] INFO  o.s.b.a.s.s.UserDetailsServiceAutoConfiguration - getOrDeducePassword
+2019-12-16 08:41:46 AM [main] INFO  o.a.coyote.http11.Http11NioProtocol - log
+2019-12-16 08:41:46 AM [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - start
+2019-12-16 08:41:46 AM [main] INFO  c.v.c.VtcConnectionSplayApplication - logStarted
+2019-12-16 08:42:08 AM [http-nio-9092-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - log
+2019-12-16 08:42:08 AM [http-nio-9092-exec-1] INFO  o.s.web.servlet.DispatcherServlet - initServletBean
+2019-12-16 08:42:08 AM [http-nio-9092-exec-1] INFO  o.s.web.servlet.DispatcherServlet - initServletBean
+2019-12-16 08:42:08 AM [http-nio-9092-exec-1] INFO  c.v.c.c.CardScoinController - saveTopupCardHistory
+2019-12-16 08:42:09 AM [http-nio-9092-exec-1] INFO  c.v.c.e.ScoinExceptionHandler - handleDuplicateEntityExceptionConectionScoin
+com.vtc.common.exception.ConnectionScoinDuplicateEntityException: Duplicate Payment!!
+	at com.vtc.connection.service.impl.CardScoinServiceImpl.saveTopupCardFromScoinHistory(CardScoinServiceImpl.java:83)
+	at com.vtc.connection.controllers.CardScoinController.saveTopupCardHistory(CardScoinController.java:32)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:189)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:102)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:892)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:797)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1038)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:942)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1005)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:908)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:660)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:882)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:320)
+	at org.springframework.security.web.access.intercept.FilterSecurityInterceptor.invoke(FilterSecurityInterceptor.java:127)
+	at org.springframework.security.web.access.intercept.FilterSecurityInterceptor.doFilter(FilterSecurityInterceptor.java:91)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.access.ExceptionTranslationFilter.doFilter(ExceptionTranslationFilter.java:119)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.session.SessionManagementFilter.doFilter(SessionManagementFilter.java:137)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.authentication.AnonymousAuthenticationFilter.doFilter(AnonymousAuthenticationFilter.java:111)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter.doFilter(SecurityContextHolderAwareRequestFilter.java:170)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.savedrequest.RequestCacheAwareFilter.doFilter(RequestCacheAwareFilter.java:63)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.authentication.www.BasicAuthenticationFilter.doFilterInternal(BasicAuthenticationFilter.java:158)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.authentication.preauth.AbstractPreAuthenticatedProcessingFilter.doFilter(AbstractPreAuthenticatedProcessingFilter.java:121)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:116)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.web.filter.CorsFilter.doFilterInternal(CorsFilter.java:96)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.header.HeaderWriterFilter.doFilterInternal(HeaderWriterFilter.java:74)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.context.SecurityContextPersistenceFilter.doFilter(SecurityContextPersistenceFilter.java:105)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter.doFilterInternal(WebAsyncManagerIntegrationFilter.java:56)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.FilterChainProxy.doFilterInternal(FilterChainProxy.java:215)
+	at org.springframework.security.web.FilterChainProxy.doFilter(FilterChainProxy.java:178)
+	at org.springframework.web.filter.DelegatingFilterProxy.invokeDelegate(DelegatingFilterProxy.java:357)
+	at org.springframework.web.filter.DelegatingFilterProxy.doFilter(DelegatingFilterProxy.java:270)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:200)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:200)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:490)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:408)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:834)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1415)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2019-12-16 08:44:17 AM [http-nio-9092-exec-5] INFO  c.v.c.c.CardScoinController - checkLimitTopupCardScoinCross
+2019-12-16 08:44:17 AM [http-nio-9092-exec-5] INFO  c.v.c.s.impl.CardScoinServiceImpl - checkLimitTopupCardScoinCross
+2019-12-16 08:44:17 AM [http-nio-9092-exec-5] INFO  c.v.c.s.impl.CardScoinServiceImpl - checkLimitTopupCardScoinCross
+2019-12-16 08:44:17 AM [http-nio-9092-exec-5] INFO  c.v.c.c.CardScoinController - toConnectionScoinResult
+2019-12-16 09:48:15 AM [Thread-4] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - destroy
+2019-12-16 09:48:15 AM [Thread-4] INFO  com.zaxxer.hikari.HikariDataSource - close
+2019-12-16 09:48:15 AM [Thread-4] INFO  com.zaxxer.hikari.HikariDataSource - close
+2019-12-16 09:48:31 AM [main] INFO  c.v.c.VtcConnectionSplayApplication - logStarting
+2019-12-16 09:48:31 AM [main] INFO  c.v.c.VtcConnectionSplayApplication - logStartupProfileInfo
+2019-12-16 09:48:32 AM [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - registerRepositoriesIn
+2019-12-16 09:48:32 AM [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - registerRepositoriesIn
+2019-12-16 09:48:32 AM [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - registerRepositoriesIn
+2019-12-16 09:48:32 AM [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - registerRepositoriesIn
+2019-12-16 09:48:33 AM [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - postProcessAfterInitialization
+2019-12-16 09:48:33 AM [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - postProcessAfterInitialization
+2019-12-16 09:48:33 AM [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - postProcessAfterInitialization
+2019-12-16 09:48:33 AM [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - postProcessAfterInitialization
+2019-12-16 09:48:33 AM [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - postProcessAfterInitialization
+2019-12-16 09:48:33 AM [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - postProcessAfterInitialization
+2019-12-16 09:48:34 AM [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - initialize
+2019-12-16 09:48:34 AM [main] INFO  o.a.coyote.http11.Http11NioProtocol - log
+2019-12-16 09:48:34 AM [main] INFO  o.a.catalina.core.StandardService - log
+2019-12-16 09:48:34 AM [main] INFO  o.a.catalina.core.StandardEngine - log
+2019-12-16 09:48:34 AM [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - log
+2019-12-16 09:48:34 AM [main] INFO  o.s.web.context.ContextLoader - prepareWebApplicationContext
+2019-12-16 09:48:34 AM [main] INFO  com.zaxxer.hikari.HikariDataSource - getConnection
+2019-12-16 09:48:35 AM [main] INFO  com.zaxxer.hikari.HikariDataSource - getConnection
+2019-12-16 09:48:35 AM [main] INFO  o.h.jpa.internal.util.LogHelper - logPersistenceUnitInformation
+2019-12-16 09:48:35 AM [main] INFO  org.hibernate.Version - logVersion
+2019-12-16 09:48:35 AM [main] INFO  org.hibernate.cfg.Environment - <clinit>
+2019-12-16 09:48:35 AM [main] INFO  o.h.annotations.common.Version - <clinit>
+2019-12-16 09:48:35 AM [main] INFO  org.hibernate.dialect.Dialect - <init>
+2019-12-16 09:48:37 AM [main] INFO  o.h.h.i.QueryTranslatorFactoryInitiator - initiateService
+2019-12-16 09:48:37 AM [main] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - buildNativeEntityManagerFactory
+2019-12-16 09:48:38 AM [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration$JpaWebMvcConfiguration - openEntityManagerInViewInterceptor
+2019-12-16 09:48:39 AM [main] INFO  o.s.s.web.DefaultSecurityFilterChain - <init>
+2019-12-16 09:48:39 AM [main] INFO  o.s.b.a.s.s.UserDetailsServiceAutoConfiguration - getOrDeducePassword
+2019-12-16 09:48:39 AM [main] INFO  o.a.coyote.http11.Http11NioProtocol - log
+2019-12-16 09:48:39 AM [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - start
+2019-12-16 09:48:39 AM [main] INFO  c.v.c.VtcConnectionSplayApplication - logStarted
+2019-12-16 09:49:01 AM [http-nio-9092-exec-9] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - log
+2019-12-16 09:49:01 AM [http-nio-9092-exec-9] INFO  o.s.web.servlet.DispatcherServlet - initServletBean
+2019-12-16 09:49:01 AM [http-nio-9092-exec-9] INFO  o.s.web.servlet.DispatcherServlet - initServletBean
+2019-12-16 09:49:01 AM [http-nio-9092-exec-9] INFO  c.v.c.c.CardScoinController - checkLimitTopupCardScoinCross
+2019-12-16 09:49:01 AM [http-nio-9092-exec-9] INFO  c.v.c.s.impl.CardScoinServiceImpl - checkLimitTopupCardScoinCross
+2019-12-16 09:49:01 AM [http-nio-9092-exec-9] INFO  c.v.c.s.impl.CardScoinServiceImpl - checkLimitTopupCardScoinCross
+2019-12-16 09:49:01 AM [http-nio-9092-exec-9] INFO  c.v.c.s.impl.CardScoinServiceImpl - checkLimitTopupCardScoinCross
+2019-12-16 09:49:01 AM [http-nio-9092-exec-9] INFO  c.v.c.s.impl.CardScoinServiceImpl - checkLimitTopupCardScoinCross
+2019-12-16 09:49:02 AM [http-nio-9092-exec-9] INFO  c.v.c.c.CardScoinController - toConnectionScoinResult
+2019-12-16 09:49:12 AM [http-nio-9092-exec-8] INFO  c.v.c.c.CardScoinController - checkLimitTopupCardScoinCross
+2019-12-16 09:49:12 AM [http-nio-9092-exec-8] INFO  c.v.c.s.impl.CardScoinServiceImpl - checkLimitTopupCardScoinCross
+2019-12-16 09:49:12 AM [http-nio-9092-exec-8] INFO  c.v.c.s.impl.CardScoinServiceImpl - checkLimitTopupCardScoinCross
+2019-12-16 09:49:12 AM [http-nio-9092-exec-8] INFO  c.v.c.s.impl.CardScoinServiceImpl - checkLimitTopupCardScoinCross
+2019-12-16 09:49:12 AM [http-nio-9092-exec-8] INFO  c.v.c.s.impl.CardScoinServiceImpl - checkLimitTopupCardScoinCross
+2019-12-16 09:49:13 AM [http-nio-9092-exec-8] INFO  c.v.c.c.CardScoinController - toConnectionScoinResult
+2019-12-16 09:49:14 AM [http-nio-9092-exec-7] INFO  c.v.c.c.CardScoinController - checkLimitTopupCardScoinCross
+2019-12-16 09:49:14 AM [http-nio-9092-exec-7] INFO  c.v.c.s.impl.CardScoinServiceImpl - checkLimitTopupCardScoinCross
+2019-12-16 09:49:14 AM [http-nio-9092-exec-7] INFO  c.v.c.s.impl.CardScoinServiceImpl - checkLimitTopupCardScoinCross
+2019-12-16 09:49:14 AM [http-nio-9092-exec-7] INFO  c.v.c.s.impl.CardScoinServiceImpl - checkLimitTopupCardScoinCross
+2019-12-16 09:49:14 AM [http-nio-9092-exec-7] INFO  c.v.c.s.impl.CardScoinServiceImpl - checkLimitTopupCardScoinCross
+2019-12-16 09:49:15 AM [http-nio-9092-exec-7] INFO  c.v.c.c.CardScoinController - toConnectionScoinResult
+2019-12-16 09:50:22 AM [Thread-4] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - destroy
+2019-12-16 09:50:22 AM [Thread-4] INFO  com.zaxxer.hikari.HikariDataSource - close
+2019-12-16 09:50:22 AM [Thread-4] INFO  com.zaxxer.hikari.HikariDataSource - close
+2019-12-16 09:50:29 AM [main] INFO  c.v.c.VtcConnectionSplayApplication - logStarting
+2019-12-16 09:50:29 AM [main] INFO  c.v.c.VtcConnectionSplayApplication - logStartupProfileInfo
+2019-12-16 09:50:30 AM [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - registerRepositoriesIn
+2019-12-16 09:50:30 AM [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - registerRepositoriesIn
+2019-12-16 09:50:30 AM [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - registerRepositoriesIn
+2019-12-16 09:50:30 AM [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - registerRepositoriesIn
+2019-12-16 09:50:31 AM [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - postProcessAfterInitialization
+2019-12-16 09:50:31 AM [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - postProcessAfterInitialization
+2019-12-16 09:50:31 AM [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - postProcessAfterInitialization
+2019-12-16 09:50:31 AM [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - postProcessAfterInitialization
+2019-12-16 09:50:31 AM [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - postProcessAfterInitialization
+2019-12-16 09:50:31 AM [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - postProcessAfterInitialization
+2019-12-16 09:50:32 AM [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - initialize
+2019-12-16 09:50:32 AM [main] INFO  o.a.coyote.http11.Http11NioProtocol - log
+2019-12-16 09:50:32 AM [main] INFO  o.a.catalina.core.StandardService - log
+2019-12-16 09:50:32 AM [main] INFO  o.a.catalina.core.StandardEngine - log
+2019-12-16 09:50:32 AM [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - log
+2019-12-16 09:50:32 AM [main] INFO  o.s.web.context.ContextLoader - prepareWebApplicationContext
+2019-12-16 09:50:32 AM [main] INFO  com.zaxxer.hikari.HikariDataSource - getConnection
+2019-12-16 09:50:33 AM [main] INFO  com.zaxxer.hikari.HikariDataSource - getConnection
+2019-12-16 09:50:33 AM [main] INFO  o.h.jpa.internal.util.LogHelper - logPersistenceUnitInformation
+2019-12-16 09:50:33 AM [main] INFO  org.hibernate.Version - logVersion
+2019-12-16 09:50:33 AM [main] INFO  org.hibernate.cfg.Environment - <clinit>
+2019-12-16 09:50:33 AM [main] INFO  o.h.annotations.common.Version - <clinit>
+2019-12-16 09:50:33 AM [main] INFO  org.hibernate.dialect.Dialect - <init>
+2019-12-16 09:50:35 AM [main] INFO  o.h.h.i.QueryTranslatorFactoryInitiator - initiateService
+2019-12-16 09:50:35 AM [main] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - buildNativeEntityManagerFactory
+2019-12-16 09:50:36 AM [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration$JpaWebMvcConfiguration - openEntityManagerInViewInterceptor
+2019-12-16 09:50:37 AM [main] INFO  o.s.s.web.DefaultSecurityFilterChain - <init>
+2019-12-16 09:50:37 AM [main] INFO  o.s.b.a.s.s.UserDetailsServiceAutoConfiguration - getOrDeducePassword
+2019-12-16 09:50:37 AM [main] INFO  o.a.coyote.http11.Http11NioProtocol - log
+2019-12-16 09:50:37 AM [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - start
+2019-12-16 09:50:37 AM [main] INFO  c.v.c.VtcConnectionSplayApplication - logStarted
+2019-12-16 09:50:39 AM [http-nio-9092-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - log
+2019-12-16 09:50:39 AM [http-nio-9092-exec-1] INFO  o.s.web.servlet.DispatcherServlet - initServletBean
+2019-12-16 09:50:39 AM [http-nio-9092-exec-1] INFO  o.s.web.servlet.DispatcherServlet - initServletBean
+2019-12-16 09:50:40 AM [http-nio-9092-exec-1] INFO  c.v.c.c.CardScoinController - checkLimitTopupCardScoinCross
+2019-12-16 09:50:40 AM [http-nio-9092-exec-1] INFO  c.v.c.s.impl.CardScoinServiceImpl - checkLimitTopupCardScoinCross
+2019-12-16 09:50:40 AM [http-nio-9092-exec-1] INFO  c.v.c.s.impl.CardScoinServiceImpl - checkLimitTopupCardScoinCross
+2019-12-16 09:50:40 AM [http-nio-9092-exec-1] INFO  c.v.c.s.impl.CardScoinServiceImpl - checkLimitTopupCardScoinCross
+2019-12-16 09:50:40 AM [http-nio-9092-exec-1] INFO  c.v.c.s.impl.CardScoinServiceImpl - checkLimitTopupCardScoinCross
+2019-12-16 09:50:40 AM [http-nio-9092-exec-1] INFO  c.v.c.c.CardScoinController - toConnectionScoinResult
+2019-12-16 09:50:47 AM [http-nio-9092-exec-4] INFO  c.v.c.c.CardScoinController - checkLimitTopupCardScoinCross
+2019-12-16 09:50:47 AM [http-nio-9092-exec-4] INFO  c.v.c.s.impl.CardScoinServiceImpl - checkLimitTopupCardScoinCross
+2019-12-16 09:50:47 AM [http-nio-9092-exec-4] INFO  c.v.c.s.impl.CardScoinServiceImpl - checkLimitTopupCardScoinCross
+2019-12-16 09:50:47 AM [http-nio-9092-exec-4] INFO  c.v.c.s.impl.CardScoinServiceImpl - checkLimitTopupCardScoinCross
+2019-12-16 09:50:47 AM [http-nio-9092-exec-4] INFO  c.v.c.s.impl.CardScoinServiceImpl - checkLimitTopupCardScoinCross
+2019-12-16 09:50:47 AM [http-nio-9092-exec-4] INFO  c.v.c.c.CardScoinController - toConnectionScoinResult
+2019-12-16 09:50:50 AM [http-nio-9092-exec-2] INFO  c.v.c.c.CardScoinController - checkLimitTopupCardScoinCross
+2019-12-16 09:50:50 AM [http-nio-9092-exec-2] INFO  c.v.c.s.impl.CardScoinServiceImpl - checkLimitTopupCardScoinCross
+2019-12-16 09:50:50 AM [http-nio-9092-exec-2] INFO  c.v.c.s.impl.CardScoinServiceImpl - checkLimitTopupCardScoinCross
+2019-12-16 09:50:50 AM [http-nio-9092-exec-2] INFO  c.v.c.s.impl.CardScoinServiceImpl - checkLimitTopupCardScoinCross
+2019-12-16 09:50:50 AM [http-nio-9092-exec-2] INFO  c.v.c.s.impl.CardScoinServiceImpl - checkLimitTopupCardScoinCross
+2019-12-16 09:50:50 AM [http-nio-9092-exec-2] INFO  c.v.c.c.CardScoinController - toConnectionScoinResult
+2019-12-16 09:50:51 AM [http-nio-9092-exec-6] INFO  c.v.c.c.CardScoinController - checkLimitTopupCardScoinCross
+2019-12-16 09:50:51 AM [http-nio-9092-exec-6] INFO  c.v.c.s.impl.CardScoinServiceImpl - checkLimitTopupCardScoinCross
+2019-12-16 09:50:51 AM [http-nio-9092-exec-6] INFO  c.v.c.s.impl.CardScoinServiceImpl - checkLimitTopupCardScoinCross
+2019-12-16 09:50:51 AM [http-nio-9092-exec-6] INFO  c.v.c.s.impl.CardScoinServiceImpl - checkLimitTopupCardScoinCross
+2019-12-16 09:50:51 AM [http-nio-9092-exec-6] INFO  c.v.c.s.impl.CardScoinServiceImpl - checkLimitTopupCardScoinCross
+2019-12-16 09:50:51 AM [http-nio-9092-exec-6] INFO  c.v.c.c.CardScoinController - toConnectionScoinResult
+2019-12-16 09:50:56 AM [http-nio-9092-exec-7] INFO  c.v.c.c.CardScoinController - checkLimitTopupCardScoinCross
+2019-12-16 09:50:56 AM [http-nio-9092-exec-7] INFO  c.v.c.s.impl.CardScoinServiceImpl - checkLimitTopupCardScoinCross
+2019-12-16 09:50:56 AM [http-nio-9092-exec-7] INFO  c.v.c.s.impl.CardScoinServiceImpl - checkLimitTopupCardScoinCross
+2019-12-16 09:50:56 AM [http-nio-9092-exec-7] INFO  c.v.c.s.impl.CardScoinServiceImpl - checkLimitTopupCardScoinCross
+2019-12-16 09:50:56 AM [http-nio-9092-exec-7] INFO  c.v.c.s.impl.CardScoinServiceImpl - checkLimitTopupCardScoinCross
+2019-12-16 09:50:56 AM [http-nio-9092-exec-7] INFO  c.v.c.c.CardScoinController - toConnectionScoinResult
+2019-12-16 10:48:19 AM [Thread-4] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - destroy
+2019-12-16 10:48:19 AM [Thread-4] INFO  com.zaxxer.hikari.HikariDataSource - close
+2019-12-16 10:48:19 AM [Thread-4] INFO  com.zaxxer.hikari.HikariDataSource - close
+2019-12-16 10:48:27 AM [main] INFO  c.v.c.VtcConnectionSplayApplication - logStarting
+2019-12-16 10:48:27 AM [main] INFO  c.v.c.VtcConnectionSplayApplication - logStartupProfileInfo
+2019-12-16 10:48:28 AM [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - registerRepositoriesIn
+2019-12-16 10:48:29 AM [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - registerRepositoriesIn
+2019-12-16 10:48:29 AM [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - registerRepositoriesIn
+2019-12-16 10:48:29 AM [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - registerRepositoriesIn
+2019-12-16 10:48:30 AM [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - postProcessAfterInitialization
+2019-12-16 10:48:30 AM [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - postProcessAfterInitialization
+2019-12-16 10:48:30 AM [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - postProcessAfterInitialization
+2019-12-16 10:48:30 AM [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - postProcessAfterInitialization
+2019-12-16 10:48:30 AM [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - postProcessAfterInitialization
+2019-12-16 10:48:30 AM [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - postProcessAfterInitialization
+2019-12-16 10:48:31 AM [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - initialize
+2019-12-16 10:48:31 AM [main] INFO  o.a.coyote.http11.Http11NioProtocol - log
+2019-12-16 10:48:31 AM [main] INFO  o.a.catalina.core.StandardService - log
+2019-12-16 10:48:31 AM [main] INFO  o.a.catalina.core.StandardEngine - log
+2019-12-16 10:48:31 AM [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - log
+2019-12-16 10:48:31 AM [main] INFO  o.s.web.context.ContextLoader - prepareWebApplicationContext
+2019-12-16 10:48:31 AM [main] INFO  com.zaxxer.hikari.HikariDataSource - getConnection
+2019-12-16 10:48:32 AM [main] INFO  com.zaxxer.hikari.HikariDataSource - getConnection
+2019-12-16 10:48:32 AM [main] INFO  o.h.jpa.internal.util.LogHelper - logPersistenceUnitInformation
+2019-12-16 10:48:32 AM [main] INFO  org.hibernate.Version - logVersion
+2019-12-16 10:48:32 AM [main] INFO  org.hibernate.cfg.Environment - <clinit>
+2019-12-16 10:48:32 AM [main] INFO  o.h.annotations.common.Version - <clinit>
+2019-12-16 10:48:32 AM [main] INFO  org.hibernate.dialect.Dialect - <init>
+2019-12-16 10:48:34 AM [main] INFO  o.h.h.i.QueryTranslatorFactoryInitiator - initiateService
+2019-12-16 10:48:34 AM [main] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - buildNativeEntityManagerFactory
+2019-12-16 10:48:35 AM [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration$JpaWebMvcConfiguration - openEntityManagerInViewInterceptor
+2019-12-16 10:48:36 AM [main] INFO  o.s.s.web.DefaultSecurityFilterChain - <init>
+2019-12-16 10:48:36 AM [main] INFO  o.s.b.a.s.s.UserDetailsServiceAutoConfiguration - getOrDeducePassword
+2019-12-16 10:48:36 AM [main] INFO  o.a.coyote.http11.Http11NioProtocol - log
+2019-12-16 10:48:36 AM [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - start
+2019-12-16 10:48:36 AM [main] INFO  c.v.c.VtcConnectionSplayApplication - logStarted
+2019-12-16 10:52:11 AM [Thread-4] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - destroy
+2019-12-16 10:52:11 AM [Thread-4] INFO  com.zaxxer.hikari.HikariDataSource - close
+2019-12-16 10:52:11 AM [Thread-4] INFO  com.zaxxer.hikari.HikariDataSource - close
+2019-12-16 10:52:41 AM [main] INFO  c.v.c.VtcConnectionSplayApplication - logStarting
+2019-12-16 10:52:41 AM [main] INFO  c.v.c.VtcConnectionSplayApplication - logStartupProfileInfo
+2019-12-16 10:52:42 AM [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - registerRepositoriesIn
+2019-12-16 10:52:42 AM [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - registerRepositoriesIn
+2019-12-16 10:52:42 AM [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - registerRepositoriesIn
+2019-12-16 10:52:43 AM [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - registerRepositoriesIn
+2019-12-16 10:52:44 AM [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - postProcessAfterInitialization
+2019-12-16 10:52:44 AM [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - postProcessAfterInitialization
+2019-12-16 10:52:44 AM [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - postProcessAfterInitialization
+2019-12-16 10:52:44 AM [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - postProcessAfterInitialization
+2019-12-16 10:52:44 AM [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - postProcessAfterInitialization
+2019-12-16 10:52:44 AM [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - postProcessAfterInitialization
+2019-12-16 10:52:44 AM [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - initialize
+2019-12-16 10:52:44 AM [main] INFO  o.a.coyote.http11.Http11NioProtocol - log
+2019-12-16 10:52:44 AM [main] INFO  o.a.catalina.core.StandardService - log
+2019-12-16 10:52:44 AM [main] INFO  o.a.catalina.core.StandardEngine - log
+2019-12-16 10:52:44 AM [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - log
+2019-12-16 10:52:44 AM [main] INFO  o.s.web.context.ContextLoader - prepareWebApplicationContext
+2019-12-16 10:52:45 AM [main] INFO  com.zaxxer.hikari.HikariDataSource - getConnection
+2019-12-16 10:52:46 AM [main] INFO  com.zaxxer.hikari.HikariDataSource - getConnection
+2019-12-16 10:52:46 AM [main] INFO  o.h.jpa.internal.util.LogHelper - logPersistenceUnitInformation
+2019-12-16 10:52:46 AM [main] INFO  org.hibernate.Version - logVersion
+2019-12-16 10:52:46 AM [main] INFO  org.hibernate.cfg.Environment - <clinit>
+2019-12-16 10:52:47 AM [main] INFO  o.h.annotations.common.Version - <clinit>
+2019-12-16 10:52:47 AM [main] INFO  org.hibernate.dialect.Dialect - <init>
+2019-12-16 10:52:48 AM [main] INFO  o.h.h.i.QueryTranslatorFactoryInitiator - initiateService
+2019-12-16 10:52:49 AM [main] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - buildNativeEntityManagerFactory
+2019-12-16 10:52:50 AM [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration$JpaWebMvcConfiguration - openEntityManagerInViewInterceptor
+2019-12-16 10:52:51 AM [main] INFO  o.s.s.web.DefaultSecurityFilterChain - <init>
+2019-12-16 10:52:51 AM [main] INFO  o.s.b.a.s.s.UserDetailsServiceAutoConfiguration - getOrDeducePassword
+2019-12-16 10:52:51 AM [main] INFO  o.a.coyote.http11.Http11NioProtocol - log
+2019-12-16 10:52:51 AM [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - start
+2019-12-16 10:52:51 AM [main] INFO  c.v.c.VtcConnectionSplayApplication - logStarted
+2019-12-16 10:53:48 AM [http-nio-9092-exec-2] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - log
+2019-12-16 10:53:48 AM [http-nio-9092-exec-2] INFO  o.s.web.servlet.DispatcherServlet - initServletBean
+2019-12-16 10:53:49 AM [http-nio-9092-exec-2] INFO  o.s.web.servlet.DispatcherServlet - initServletBean
+2019-12-16 10:53:49 AM [http-nio-9092-exec-2] INFO  c.v.c.c.CardScoinController - saveTopupCardHistory
+2019-12-16 10:53:51 AM [http-nio-9092-exec-2] ERROR o.a.c.c.C.[.[.[.[dispatcherServlet] - log
+java.lang.IllegalArgumentException: Can not set int field com.vtc.common.dao.entity.TopupCardHistory.serviceId to null value
+	at java.base/jdk.internal.reflect.UnsafeFieldAccessorImpl.throwSetIllegalArgumentException(UnsafeFieldAccessorImpl.java:167)
+	at java.base/jdk.internal.reflect.UnsafeFieldAccessorImpl.throwSetIllegalArgumentException(UnsafeFieldAccessorImpl.java:171)
+	at java.base/jdk.internal.reflect.UnsafeIntegerFieldAccessorImpl.set(UnsafeIntegerFieldAccessorImpl.java:80)
+	at java.base/java.lang.reflect.Field.set(Field.java:780)
+	at org.hibernate.property.access.spi.SetterFieldImpl.set(SetterFieldImpl.java:41)
+	at org.hibernate.tuple.entity.AbstractEntityTuplizer.setPropertyValues(AbstractEntityTuplizer.java:649)
+	at org.hibernate.tuple.entity.PojoEntityTuplizer.setPropertyValues(PojoEntityTuplizer.java:205)
+	at org.hibernate.persister.entity.AbstractEntityPersister.setPropertyValues(AbstractEntityPersister.java:4905)
+	at org.hibernate.engine.internal.TwoPhaseLoad.doInitializeEntity(TwoPhaseLoad.java:190)
+	at org.hibernate.engine.internal.TwoPhaseLoad.initializeEntity(TwoPhaseLoad.java:129)
+	at org.hibernate.loader.Loader.initializeEntitiesAndCollections(Loader.java:1151)
+	at org.hibernate.loader.Loader.processResultSet(Loader.java:1010)
+	at org.hibernate.loader.Loader.doQuery(Loader.java:948)
+	at org.hibernate.loader.Loader.doQueryAndInitializeNonLazyCollections(Loader.java:340)
+	at org.hibernate.loader.Loader.doList(Loader.java:2689)
+	at org.hibernate.loader.Loader.doList(Loader.java:2672)
+	at org.hibernate.loader.Loader.listIgnoreQueryCache(Loader.java:2506)
+	at org.hibernate.loader.Loader.list(Loader.java:2501)
+	at org.hibernate.loader.hql.QueryLoader.list(QueryLoader.java:504)
+	at org.hibernate.hql.internal.ast.QueryTranslatorImpl.list(QueryTranslatorImpl.java:395)
+	at org.hibernate.engine.query.spi.HQLQueryPlan.performList(HQLQueryPlan.java:220)
+	at org.hibernate.internal.SessionImpl.list(SessionImpl.java:1507)
+	at org.hibernate.query.internal.AbstractProducedQuery.doList(AbstractProducedQuery.java:1537)
+	at org.hibernate.query.internal.AbstractProducedQuery.list(AbstractProducedQuery.java:1505)
+	at org.hibernate.query.internal.AbstractProducedQuery.getSingleResult(AbstractProducedQuery.java:1553)
+	at org.hibernate.query.criteria.internal.compile.CriteriaQueryTypeQueryAdapter.getSingleResult(CriteriaQueryTypeQueryAdapter.java:109)
+	at org.springframework.data.jpa.repository.query.JpaQueryExecution$SingleEntityExecution.doExecute(JpaQueryExecution.java:214)
+	at org.springframework.data.jpa.repository.query.JpaQueryExecution.execute(JpaQueryExecution.java:91)
+	at org.springframework.data.jpa.repository.query.AbstractJpaQuery.doExecute(AbstractJpaQuery.java:136)
+	at org.springframework.data.jpa.repository.query.AbstractJpaQuery.execute(AbstractJpaQuery.java:125)
+	at org.springframework.data.repository.core.support.RepositoryFactorySupport$QueryExecutorMethodInterceptor.doInvoke(RepositoryFactorySupport.java:605)
+	at org.springframework.data.repository.core.support.RepositoryFactorySupport$QueryExecutorMethodInterceptor.lambda$invoke$3(RepositoryFactorySupport.java:595)
+	at org.springframework.data.repository.core.support.RepositoryFactorySupport$QueryExecutorMethodInterceptor.invoke(RepositoryFactorySupport.java:595)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.data.projection.DefaultMethodInvokingMethodInterceptor.invoke(DefaultMethodInvokingMethodInterceptor.java:59)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.transaction.interceptor.TransactionAspectSupport.invokeWithinTransaction(TransactionAspectSupport.java:294)
+	at org.springframework.transaction.interceptor.TransactionInterceptor.invoke(TransactionInterceptor.java:98)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.dao.support.PersistenceExceptionTranslationInterceptor.invoke(PersistenceExceptionTranslationInterceptor.java:139)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.data.jpa.repository.support.CrudMethodMetadataPostProcessor$CrudMethodMetadataPopulatingMethodInterceptor.invoke(CrudMethodMetadataPostProcessor.java:138)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:93)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.data.repository.core.support.SurroundingTransactionDetectorMethodInterceptor.invoke(SurroundingTransactionDetectorMethodInterceptor.java:61)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:212)
+	at com.sun.proxy.$Proxy133.findByBillingTransId(Unknown Source)
+	at com.vtc.connection.service.impl.CardScoinServiceImpl.saveTopupCardFromScoinHistory(CardScoinServiceImpl.java:83)
+	at com.vtc.connection.controllers.CardScoinController.saveTopupCardHistory(CardScoinController.java:32)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:189)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:102)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:892)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:797)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1038)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:942)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1005)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:908)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:660)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:882)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:320)
+	at org.springframework.security.web.access.intercept.FilterSecurityInterceptor.invoke(FilterSecurityInterceptor.java:127)
+	at org.springframework.security.web.access.intercept.FilterSecurityInterceptor.doFilter(FilterSecurityInterceptor.java:91)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.access.ExceptionTranslationFilter.doFilter(ExceptionTranslationFilter.java:119)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.session.SessionManagementFilter.doFilter(SessionManagementFilter.java:137)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.authentication.AnonymousAuthenticationFilter.doFilter(AnonymousAuthenticationFilter.java:111)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter.doFilter(SecurityContextHolderAwareRequestFilter.java:170)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.savedrequest.RequestCacheAwareFilter.doFilter(RequestCacheAwareFilter.java:63)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.authentication.www.BasicAuthenticationFilter.doFilterInternal(BasicAuthenticationFilter.java:158)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.authentication.preauth.AbstractPreAuthenticatedProcessingFilter.doFilter(AbstractPreAuthenticatedProcessingFilter.java:121)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:116)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.web.filter.CorsFilter.doFilterInternal(CorsFilter.java:96)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.header.HeaderWriterFilter.doFilterInternal(HeaderWriterFilter.java:74)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.context.SecurityContextPersistenceFilter.doFilter(SecurityContextPersistenceFilter.java:105)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter.doFilterInternal(WebAsyncManagerIntegrationFilter.java:56)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.FilterChainProxy.doFilterInternal(FilterChainProxy.java:215)
+	at org.springframework.security.web.FilterChainProxy.doFilter(FilterChainProxy.java:178)
+	at org.springframework.web.filter.DelegatingFilterProxy.invokeDelegate(DelegatingFilterProxy.java:357)
+	at org.springframework.web.filter.DelegatingFilterProxy.doFilter(DelegatingFilterProxy.java:270)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:200)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:200)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:490)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:408)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:834)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1415)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2019-12-16 10:55:12 AM [Thread-4] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - destroy
+2019-12-16 10:55:12 AM [Thread-4] INFO  com.zaxxer.hikari.HikariDataSource - close
+2019-12-16 10:55:12 AM [Thread-4] INFO  com.zaxxer.hikari.HikariDataSource - close
+2019-12-16 10:55:21 AM [main] INFO  c.v.c.VtcConnectionSplayApplication - logStarting
+2019-12-16 10:55:21 AM [main] INFO  c.v.c.VtcConnectionSplayApplication - logStartupProfileInfo
+2019-12-16 10:55:22 AM [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - registerRepositoriesIn
+2019-12-16 10:55:22 AM [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - registerRepositoriesIn
+2019-12-16 10:55:22 AM [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - registerRepositoriesIn
+2019-12-16 10:55:22 AM [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - registerRepositoriesIn
+2019-12-16 10:55:23 AM [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - postProcessAfterInitialization
+2019-12-16 10:55:23 AM [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - postProcessAfterInitialization
+2019-12-16 10:55:23 AM [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - postProcessAfterInitialization
+2019-12-16 10:55:23 AM [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - postProcessAfterInitialization
+2019-12-16 10:55:23 AM [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - postProcessAfterInitialization
+2019-12-16 10:55:23 AM [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - postProcessAfterInitialization
+2019-12-16 10:55:24 AM [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - initialize
+2019-12-16 10:55:24 AM [main] INFO  o.a.coyote.http11.Http11NioProtocol - log
+2019-12-16 10:55:24 AM [main] INFO  o.a.catalina.core.StandardService - log
+2019-12-16 10:55:24 AM [main] INFO  o.a.catalina.core.StandardEngine - log
+2019-12-16 10:55:24 AM [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - log
+2019-12-16 10:55:24 AM [main] INFO  o.s.web.context.ContextLoader - prepareWebApplicationContext
+2019-12-16 10:55:24 AM [main] INFO  com.zaxxer.hikari.HikariDataSource - getConnection
+2019-12-16 10:55:24 AM [main] INFO  com.zaxxer.hikari.HikariDataSource - getConnection
+2019-12-16 10:55:25 AM [main] INFO  o.h.jpa.internal.util.LogHelper - logPersistenceUnitInformation
+2019-12-16 10:55:25 AM [main] INFO  org.hibernate.Version - logVersion
+2019-12-16 10:55:25 AM [main] INFO  org.hibernate.cfg.Environment - <clinit>
+2019-12-16 10:55:25 AM [main] INFO  o.h.annotations.common.Version - <clinit>
+2019-12-16 10:55:25 AM [main] INFO  org.hibernate.dialect.Dialect - <init>
+2019-12-16 10:55:27 AM [main] INFO  o.h.h.i.QueryTranslatorFactoryInitiator - initiateService
+2019-12-16 10:55:27 AM [main] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - buildNativeEntityManagerFactory
+2019-12-16 10:55:28 AM [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration$JpaWebMvcConfiguration - openEntityManagerInViewInterceptor
+2019-12-16 10:55:29 AM [main] INFO  o.s.s.web.DefaultSecurityFilterChain - <init>
+2019-12-16 10:55:30 AM [main] INFO  o.s.b.a.s.s.UserDetailsServiceAutoConfiguration - getOrDeducePassword
+2019-12-16 10:55:30 AM [main] INFO  o.a.coyote.http11.Http11NioProtocol - log
+2019-12-16 10:55:30 AM [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - start
+2019-12-16 10:55:30 AM [main] INFO  c.v.c.VtcConnectionSplayApplication - logStarted
+2019-12-16 10:55:38 AM [http-nio-9092-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - log
+2019-12-16 10:55:38 AM [http-nio-9092-exec-1] INFO  o.s.web.servlet.DispatcherServlet - initServletBean
+2019-12-16 10:55:38 AM [http-nio-9092-exec-1] INFO  o.s.web.servlet.DispatcherServlet - initServletBean
+2019-12-16 10:55:38 AM [http-nio-9092-exec-1] INFO  c.v.c.c.CardScoinController - saveTopupCardHistory
+2019-12-16 10:55:38 AM [http-nio-9092-exec-1] ERROR o.a.c.c.C.[.[.[.[dispatcherServlet] - log
+java.lang.IllegalArgumentException: Can not set long field com.vtc.common.dao.entity.TopupCardHistory.serviceId to null value
+	at java.base/jdk.internal.reflect.UnsafeFieldAccessorImpl.throwSetIllegalArgumentException(UnsafeFieldAccessorImpl.java:167)
+	at java.base/jdk.internal.reflect.UnsafeFieldAccessorImpl.throwSetIllegalArgumentException(UnsafeFieldAccessorImpl.java:171)
+	at java.base/jdk.internal.reflect.UnsafeLongFieldAccessorImpl.set(UnsafeLongFieldAccessorImpl.java:80)
+	at java.base/java.lang.reflect.Field.set(Field.java:780)
+	at org.hibernate.property.access.spi.SetterFieldImpl.set(SetterFieldImpl.java:41)
+	at org.hibernate.tuple.entity.AbstractEntityTuplizer.setPropertyValues(AbstractEntityTuplizer.java:649)
+	at org.hibernate.tuple.entity.PojoEntityTuplizer.setPropertyValues(PojoEntityTuplizer.java:205)
+	at org.hibernate.persister.entity.AbstractEntityPersister.setPropertyValues(AbstractEntityPersister.java:4905)
+	at org.hibernate.engine.internal.TwoPhaseLoad.doInitializeEntity(TwoPhaseLoad.java:190)
+	at org.hibernate.engine.internal.TwoPhaseLoad.initializeEntity(TwoPhaseLoad.java:129)
+	at org.hibernate.loader.Loader.initializeEntitiesAndCollections(Loader.java:1151)
+	at org.hibernate.loader.Loader.processResultSet(Loader.java:1010)
+	at org.hibernate.loader.Loader.doQuery(Loader.java:948)
+	at org.hibernate.loader.Loader.doQueryAndInitializeNonLazyCollections(Loader.java:340)
+	at org.hibernate.loader.Loader.doList(Loader.java:2689)
+	at org.hibernate.loader.Loader.doList(Loader.java:2672)
+	at org.hibernate.loader.Loader.listIgnoreQueryCache(Loader.java:2506)
+	at org.hibernate.loader.Loader.list(Loader.java:2501)
+	at org.hibernate.loader.hql.QueryLoader.list(QueryLoader.java:504)
+	at org.hibernate.hql.internal.ast.QueryTranslatorImpl.list(QueryTranslatorImpl.java:395)
+	at org.hibernate.engine.query.spi.HQLQueryPlan.performList(HQLQueryPlan.java:220)
+	at org.hibernate.internal.SessionImpl.list(SessionImpl.java:1507)
+	at org.hibernate.query.internal.AbstractProducedQuery.doList(AbstractProducedQuery.java:1537)
+	at org.hibernate.query.internal.AbstractProducedQuery.list(AbstractProducedQuery.java:1505)
+	at org.hibernate.query.internal.AbstractProducedQuery.getSingleResult(AbstractProducedQuery.java:1553)
+	at org.hibernate.query.criteria.internal.compile.CriteriaQueryTypeQueryAdapter.getSingleResult(CriteriaQueryTypeQueryAdapter.java:109)
+	at org.springframework.data.jpa.repository.query.JpaQueryExecution$SingleEntityExecution.doExecute(JpaQueryExecution.java:214)
+	at org.springframework.data.jpa.repository.query.JpaQueryExecution.execute(JpaQueryExecution.java:91)
+	at org.springframework.data.jpa.repository.query.AbstractJpaQuery.doExecute(AbstractJpaQuery.java:136)
+	at org.springframework.data.jpa.repository.query.AbstractJpaQuery.execute(AbstractJpaQuery.java:125)
+	at org.springframework.data.repository.core.support.RepositoryFactorySupport$QueryExecutorMethodInterceptor.doInvoke(RepositoryFactorySupport.java:605)
+	at org.springframework.data.repository.core.support.RepositoryFactorySupport$QueryExecutorMethodInterceptor.lambda$invoke$3(RepositoryFactorySupport.java:595)
+	at org.springframework.data.repository.core.support.RepositoryFactorySupport$QueryExecutorMethodInterceptor.invoke(RepositoryFactorySupport.java:595)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.data.projection.DefaultMethodInvokingMethodInterceptor.invoke(DefaultMethodInvokingMethodInterceptor.java:59)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.transaction.interceptor.TransactionAspectSupport.invokeWithinTransaction(TransactionAspectSupport.java:294)
+	at org.springframework.transaction.interceptor.TransactionInterceptor.invoke(TransactionInterceptor.java:98)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.dao.support.PersistenceExceptionTranslationInterceptor.invoke(PersistenceExceptionTranslationInterceptor.java:139)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.data.jpa.repository.support.CrudMethodMetadataPostProcessor$CrudMethodMetadataPopulatingMethodInterceptor.invoke(CrudMethodMetadataPostProcessor.java:138)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:93)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.data.repository.core.support.SurroundingTransactionDetectorMethodInterceptor.invoke(SurroundingTransactionDetectorMethodInterceptor.java:61)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:212)
+	at com.sun.proxy.$Proxy133.findByBillingTransId(Unknown Source)
+	at com.vtc.connection.service.impl.CardScoinServiceImpl.saveTopupCardFromScoinHistory(CardScoinServiceImpl.java:83)
+	at com.vtc.connection.controllers.CardScoinController.saveTopupCardHistory(CardScoinController.java:32)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:189)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:102)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:892)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:797)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1038)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:942)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1005)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:908)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:660)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:882)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:320)
+	at org.springframework.security.web.access.intercept.FilterSecurityInterceptor.invoke(FilterSecurityInterceptor.java:127)
+	at org.springframework.security.web.access.intercept.FilterSecurityInterceptor.doFilter(FilterSecurityInterceptor.java:91)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.access.ExceptionTranslationFilter.doFilter(ExceptionTranslationFilter.java:119)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.session.SessionManagementFilter.doFilter(SessionManagementFilter.java:137)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.authentication.AnonymousAuthenticationFilter.doFilter(AnonymousAuthenticationFilter.java:111)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter.doFilter(SecurityContextHolderAwareRequestFilter.java:170)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.savedrequest.RequestCacheAwareFilter.doFilter(RequestCacheAwareFilter.java:63)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.authentication.www.BasicAuthenticationFilter.doFilterInternal(BasicAuthenticationFilter.java:158)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.authentication.preauth.AbstractPreAuthenticatedProcessingFilter.doFilter(AbstractPreAuthenticatedProcessingFilter.java:121)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:116)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.web.filter.CorsFilter.doFilterInternal(CorsFilter.java:96)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.header.HeaderWriterFilter.doFilterInternal(HeaderWriterFilter.java:74)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.context.SecurityContextPersistenceFilter.doFilter(SecurityContextPersistenceFilter.java:105)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter.doFilterInternal(WebAsyncManagerIntegrationFilter.java:56)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.FilterChainProxy.doFilterInternal(FilterChainProxy.java:215)
+	at org.springframework.security.web.FilterChainProxy.doFilter(FilterChainProxy.java:178)
+	at org.springframework.web.filter.DelegatingFilterProxy.invokeDelegate(DelegatingFilterProxy.java:357)
+	at org.springframework.web.filter.DelegatingFilterProxy.doFilter(DelegatingFilterProxy.java:270)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:200)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:200)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:490)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:408)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:834)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1415)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2019-12-16 10:57:15 AM [http-nio-9092-exec-4] INFO  c.v.c.c.CardScoinController - saveTopupCardHistory
+2019-12-16 10:57:16 AM [http-nio-9092-exec-4] INFO  c.v.c.e.ScoinExceptionHandler - handleDuplicateEntityExceptionConectionScoin
+com.vtc.common.exception.ConnectionScoinDuplicateEntityException: Duplicate Payment!!
+	at com.vtc.connection.service.impl.CardScoinServiceImpl.saveTopupCardFromScoinHistory(CardScoinServiceImpl.java:85)
+	at com.vtc.connection.controllers.CardScoinController.saveTopupCardHistory(CardScoinController.java:32)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:189)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:102)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:892)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:797)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1038)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:942)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1005)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:908)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:660)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:882)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:320)
+	at org.springframework.security.web.access.intercept.FilterSecurityInterceptor.invoke(FilterSecurityInterceptor.java:127)
+	at org.springframework.security.web.access.intercept.FilterSecurityInterceptor.doFilter(FilterSecurityInterceptor.java:91)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.access.ExceptionTranslationFilter.doFilter(ExceptionTranslationFilter.java:119)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.session.SessionManagementFilter.doFilter(SessionManagementFilter.java:137)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.authentication.AnonymousAuthenticationFilter.doFilter(AnonymousAuthenticationFilter.java:111)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter.doFilter(SecurityContextHolderAwareRequestFilter.java:170)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.savedrequest.RequestCacheAwareFilter.doFilter(RequestCacheAwareFilter.java:63)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.authentication.www.BasicAuthenticationFilter.doFilterInternal(BasicAuthenticationFilter.java:158)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.authentication.preauth.AbstractPreAuthenticatedProcessingFilter.doFilter(AbstractPreAuthenticatedProcessingFilter.java:121)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:116)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.web.filter.CorsFilter.doFilterInternal(CorsFilter.java:96)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.header.HeaderWriterFilter.doFilterInternal(HeaderWriterFilter.java:74)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.context.SecurityContextPersistenceFilter.doFilter(SecurityContextPersistenceFilter.java:105)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter.doFilterInternal(WebAsyncManagerIntegrationFilter.java:56)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.FilterChainProxy.doFilterInternal(FilterChainProxy.java:215)
+	at org.springframework.security.web.FilterChainProxy.doFilter(FilterChainProxy.java:178)
+	at org.springframework.web.filter.DelegatingFilterProxy.invokeDelegate(DelegatingFilterProxy.java:357)
+	at org.springframework.web.filter.DelegatingFilterProxy.doFilter(DelegatingFilterProxy.java:270)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:200)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:200)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:490)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:408)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:834)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1415)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2019-12-16 10:57:47 AM [http-nio-9092-exec-6] INFO  c.v.c.c.CardScoinController - saveTopupCardHistory
+2019-12-16 10:57:47 AM [http-nio-9092-exec-6] INFO  c.v.c.s.impl.CardScoinServiceImpl - saveTopupCardFromScoinHistory
+2019-12-16 10:57:48 AM [http-nio-9092-exec-6] INFO  c.v.c.c.CardScoinController - toConnectionScoinResult
+2019-12-16 11:01:53 AM [http-nio-9092-exec-7] INFO  c.v.c.c.CardScoinController - saveTopupCardHistory
+2019-12-16 11:01:53 AM [http-nio-9092-exec-7] INFO  c.v.c.s.impl.CardScoinServiceImpl - saveTopupCardFromScoinHistory
+2019-12-16 11:01:53 AM [http-nio-9092-exec-7] INFO  c.v.c.c.CardScoinController - toConnectionScoinResult
+2019-12-16 11:07:38 AM [Thread-4] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - destroy
+2019-12-16 11:07:38 AM [Thread-4] INFO  com.zaxxer.hikari.HikariDataSource - close
+2019-12-16 11:07:38 AM [Thread-4] INFO  com.zaxxer.hikari.HikariDataSource - close
+2019-12-16 11:07:47 AM [main] INFO  c.v.c.VtcConnectionSplayApplication - logStarting
+2019-12-16 11:07:47 AM [main] INFO  c.v.c.VtcConnectionSplayApplication - logStartupProfileInfo
+2019-12-16 11:07:49 AM [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - registerRepositoriesIn
+2019-12-16 11:07:49 AM [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - registerRepositoriesIn
+2019-12-16 11:07:49 AM [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - registerRepositoriesIn
+2019-12-16 11:07:49 AM [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - registerRepositoriesIn
+2019-12-16 11:07:50 AM [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - postProcessAfterInitialization
+2019-12-16 11:07:50 AM [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - postProcessAfterInitialization
+2019-12-16 11:07:50 AM [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - postProcessAfterInitialization
+2019-12-16 11:07:50 AM [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - postProcessAfterInitialization
+2019-12-16 11:07:50 AM [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - postProcessAfterInitialization
+2019-12-16 11:07:50 AM [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - postProcessAfterInitialization
+2019-12-16 11:07:51 AM [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - initialize
+2019-12-16 11:07:51 AM [main] INFO  o.a.coyote.http11.Http11NioProtocol - log
+2019-12-16 11:07:51 AM [main] INFO  o.a.catalina.core.StandardService - log
+2019-12-16 11:07:51 AM [main] INFO  o.a.catalina.core.StandardEngine - log
+2019-12-16 11:07:51 AM [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - log
+2019-12-16 11:07:51 AM [main] INFO  o.s.web.context.ContextLoader - prepareWebApplicationContext
+2019-12-16 11:07:51 AM [main] INFO  com.zaxxer.hikari.HikariDataSource - getConnection
+2019-12-16 11:07:52 AM [main] INFO  com.zaxxer.hikari.HikariDataSource - getConnection
+2019-12-16 11:07:52 AM [main] INFO  o.h.jpa.internal.util.LogHelper - logPersistenceUnitInformation
+2019-12-16 11:07:52 AM [main] INFO  org.hibernate.Version - logVersion
+2019-12-16 11:07:52 AM [main] INFO  org.hibernate.cfg.Environment - <clinit>
+2019-12-16 11:07:52 AM [main] INFO  o.h.annotations.common.Version - <clinit>
+2019-12-16 11:07:52 AM [main] INFO  org.hibernate.dialect.Dialect - <init>
+2019-12-16 11:07:54 AM [main] INFO  o.h.h.i.QueryTranslatorFactoryInitiator - initiateService
+2019-12-16 11:07:54 AM [main] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - buildNativeEntityManagerFactory
+2019-12-16 11:07:55 AM [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration$JpaWebMvcConfiguration - openEntityManagerInViewInterceptor
+2019-12-16 11:07:56 AM [main] INFO  o.s.s.web.DefaultSecurityFilterChain - <init>
+2019-12-16 11:07:56 AM [main] INFO  o.s.b.a.s.s.UserDetailsServiceAutoConfiguration - getOrDeducePassword
+2019-12-16 11:07:56 AM [main] INFO  o.a.coyote.http11.Http11NioProtocol - log
+2019-12-16 11:07:57 AM [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - start
+2019-12-16 11:07:57 AM [main] INFO  c.v.c.VtcConnectionSplayApplication - logStarted
+2019-12-16 11:08:41 AM [http-nio-9092-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - log
+2019-12-16 11:08:41 AM [http-nio-9092-exec-1] INFO  o.s.web.servlet.DispatcherServlet - initServletBean
+2019-12-16 11:08:41 AM [http-nio-9092-exec-1] INFO  o.s.web.servlet.DispatcherServlet - initServletBean
+2019-12-16 11:08:41 AM [http-nio-9092-exec-1] INFO  c.v.c.c.CardScoinController - saveTopupCardHistory
+2019-12-16 11:08:41 AM [http-nio-9092-exec-1] INFO  c.v.c.e.ScoinExceptionHandler - handleUnauthorizedExceptionConnectionScoin
+com.vtc.common.exception.ConnectionScoinUnAuthorizationException: Only the scoin can call this api
+	at com.vtc.connection.service.impl.CardScoinServiceImpl.saveTopupCardFromScoinHistory(CardScoinServiceImpl.java:80)
+	at com.vtc.connection.controllers.CardScoinController.saveTopupCardHistory(CardScoinController.java:32)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:189)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:102)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:892)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:797)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1038)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:942)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1005)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:908)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:660)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:882)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:320)
+	at org.springframework.security.web.access.intercept.FilterSecurityInterceptor.invoke(FilterSecurityInterceptor.java:127)
+	at org.springframework.security.web.access.intercept.FilterSecurityInterceptor.doFilter(FilterSecurityInterceptor.java:91)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.access.ExceptionTranslationFilter.doFilter(ExceptionTranslationFilter.java:119)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.session.SessionManagementFilter.doFilter(SessionManagementFilter.java:137)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.authentication.AnonymousAuthenticationFilter.doFilter(AnonymousAuthenticationFilter.java:111)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter.doFilter(SecurityContextHolderAwareRequestFilter.java:170)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.savedrequest.RequestCacheAwareFilter.doFilter(RequestCacheAwareFilter.java:63)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.authentication.www.BasicAuthenticationFilter.doFilterInternal(BasicAuthenticationFilter.java:158)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.authentication.preauth.AbstractPreAuthenticatedProcessingFilter.doFilter(AbstractPreAuthenticatedProcessingFilter.java:121)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:116)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.web.filter.CorsFilter.doFilterInternal(CorsFilter.java:96)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.header.HeaderWriterFilter.doFilterInternal(HeaderWriterFilter.java:74)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.context.SecurityContextPersistenceFilter.doFilter(SecurityContextPersistenceFilter.java:105)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter.doFilterInternal(WebAsyncManagerIntegrationFilter.java:56)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.FilterChainProxy.doFilterInternal(FilterChainProxy.java:215)
+	at org.springframework.security.web.FilterChainProxy.doFilter(FilterChainProxy.java:178)
+	at org.springframework.web.filter.DelegatingFilterProxy.invokeDelegate(DelegatingFilterProxy.java:357)
+	at org.springframework.web.filter.DelegatingFilterProxy.doFilter(DelegatingFilterProxy.java:270)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:200)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:200)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:490)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:408)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:834)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1415)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:834)

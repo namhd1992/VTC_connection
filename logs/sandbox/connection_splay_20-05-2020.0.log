@@ -1,0 +1,115 @@
+2020-05-20 10:00:35 AM [main] INFO  c.v.c.VtcConnectionSplayApplication - logStarting
+2020-05-20 10:00:35 AM [main] INFO  c.v.c.VtcConnectionSplayApplication - logStartupProfileInfo
+2020-05-20 10:00:35 AM [main] WARN  o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext - refresh
+2020-05-20 10:00:35 AM [main] ERROR o.s.boot.SpringApplication - reportFailure
+org.springframework.beans.factory.BeanDefinitionStoreException: Failed to parse configuration class [com.vtc.connection.VtcConnectionSplayApplication]; nested exception is java.io.FileNotFoundException: class path resource [common.properties] cannot be opened because it does not exist
+	at org.springframework.context.annotation.ConfigurationClassParser.parse(ConfigurationClassParser.java:181)
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.processConfigBeanDefinitions(ConfigurationClassPostProcessor.java:315)
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.postProcessBeanDefinitionRegistry(ConfigurationClassPostProcessor.java:232)
+	at org.springframework.context.support.PostProcessorRegistrationDelegate.invokeBeanDefinitionRegistryPostProcessors(PostProcessorRegistrationDelegate.java:275)
+	at org.springframework.context.support.PostProcessorRegistrationDelegate.invokeBeanFactoryPostProcessors(PostProcessorRegistrationDelegate.java:95)
+	at org.springframework.context.support.AbstractApplicationContext.invokeBeanFactoryPostProcessors(AbstractApplicationContext.java:705)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:531)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:142)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:775)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:397)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:316)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1260)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1248)
+	at com.vtc.connection.VtcConnectionSplayApplication.main(VtcConnectionSplayApplication.java:20)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.boot.maven.AbstractRunMojo$LaunchRunner.run(AbstractRunMojo.java:558)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: java.io.FileNotFoundException: class path resource [common.properties] cannot be opened because it does not exist
+	at org.springframework.core.io.ClassPathResource.getInputStream(ClassPathResource.java:180)
+	at org.springframework.core.io.support.EncodedResource.getInputStream(EncodedResource.java:159)
+	at org.springframework.core.io.support.PropertiesLoaderUtils.fillProperties(PropertiesLoaderUtils.java:99)
+	at org.springframework.core.io.support.PropertiesLoaderUtils.fillProperties(PropertiesLoaderUtils.java:73)
+	at org.springframework.core.io.support.PropertiesLoaderUtils.loadProperties(PropertiesLoaderUtils.java:59)
+	at org.springframework.core.io.support.ResourcePropertySource.<init>(ResourcePropertySource.java:67)
+	at org.springframework.core.io.support.DefaultPropertySourceFactory.createPropertySource(DefaultPropertySourceFactory.java:37)
+	at org.springframework.context.annotation.ConfigurationClassParser.processPropertySource(ConfigurationClassParser.java:452)
+	at org.springframework.context.annotation.ConfigurationClassParser.doProcessConfigurationClass(ConfigurationClassParser.java:271)
+	at org.springframework.context.annotation.ConfigurationClassParser.processConfigurationClass(ConfigurationClassParser.java:242)
+	at org.springframework.context.annotation.ConfigurationClassParser.parse(ConfigurationClassParser.java:199)
+	at org.springframework.context.annotation.ConfigurationClassParser.parse(ConfigurationClassParser.java:167)
+	... 19 common frames omitted
+2020-05-20 10:02:15 AM [main] INFO  c.v.c.VtcConnectionSplayApplication - logStarting
+2020-05-20 10:02:15 AM [main] INFO  c.v.c.VtcConnectionSplayApplication - logStartupProfileInfo
+2020-05-20 10:02:16 AM [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - registerRepositoriesIn
+2020-05-20 10:02:16 AM [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - registerRepositoriesIn
+2020-05-20 10:02:16 AM [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - postProcessAfterInitialization
+2020-05-20 10:02:17 AM [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - initialize
+2020-05-20 10:02:17 AM [main] INFO  o.a.coyote.http11.Http11NioProtocol - log
+2020-05-20 10:02:17 AM [main] INFO  o.a.catalina.core.StandardService - log
+2020-05-20 10:02:17 AM [main] INFO  o.a.catalina.core.StandardEngine - log
+2020-05-20 10:02:17 AM [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - log
+2020-05-20 10:02:17 AM [main] INFO  o.s.web.context.ContextLoader - prepareWebApplicationContext
+2020-05-20 10:02:18 AM [main] INFO  com.zaxxer.hikari.HikariDataSource - getConnection
+2020-05-20 10:02:18 AM [main] INFO  com.zaxxer.hikari.HikariDataSource - getConnection
+2020-05-20 10:02:18 AM [main] INFO  o.h.jpa.internal.util.LogHelper - logPersistenceUnitInformation
+2020-05-20 10:02:18 AM [main] INFO  org.hibernate.Version - logVersion
+2020-05-20 10:02:18 AM [main] INFO  org.hibernate.cfg.Environment - <clinit>
+2020-05-20 10:02:18 AM [main] INFO  o.h.annotations.common.Version - <clinit>
+2020-05-20 10:02:19 AM [main] INFO  org.hibernate.dialect.Dialect - <init>
+2020-05-20 10:02:20 AM [main] INFO  o.h.h.i.QueryTranslatorFactoryInitiator - initiateService
+2020-05-20 10:02:20 AM [main] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - buildNativeEntityManagerFactory
+2020-05-20 10:02:21 AM [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration$JpaWebMvcConfiguration - openEntityManagerInViewInterceptor
+2020-05-20 10:02:21 AM [main] INFO  o.a.coyote.http11.Http11NioProtocol - log
+2020-05-20 10:02:21 AM [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - start
+2020-05-20 10:02:21 AM [main] INFO  c.v.c.VtcConnectionSplayApplication - logStarted
+2020-05-20 10:02:49 AM [http-nio-9092-exec-2] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - log
+2020-05-20 10:02:49 AM [http-nio-9092-exec-2] INFO  o.s.web.servlet.DispatcherServlet - initServletBean
+2020-05-20 10:02:49 AM [http-nio-9092-exec-2] INFO  o.s.web.servlet.DispatcherServlet - initServletBean
+2020-05-20 10:02:49 AM [http-nio-9092-exec-2] INFO  c.v.c.c.CardScoinController - saveTopupCardHistory
+2020-05-20 10:02:49 AM [http-nio-9092-exec-2] INFO  c.v.c.c.e.ScoinExceptionHandler - handleDuplicateEntityExceptionConectionScoin
+com.vtc.connection.common.exception.ConnectionScoinDuplicateEntityException: Duplicate Payment!!
+	at com.vtc.connection.service.impl.CardScoinServiceImpl.saveTopupCardFromScoinHistory(CardScoinServiceImpl.java:74)
+	at com.vtc.connection.controllers.CardScoinController.saveTopupCardHistory(CardScoinController.java:32)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:189)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:102)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:892)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:797)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1038)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:942)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1005)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:908)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:660)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:882)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:200)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:200)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:490)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:408)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:834)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1415)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2020-05-20 10:03:48 AM [http-nio-9092-exec-3] INFO  c.v.c.c.CardScoinController - saveTopupCardHistory
+2020-05-20 10:03:48 AM [http-nio-9092-exec-3] INFO  c.v.c.c.CardScoinController - toConnectionScoinResult
